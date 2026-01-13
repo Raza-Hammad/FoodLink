@@ -53,7 +53,7 @@ Dependencies are managed via Gradle Version Catalogs. Key libraries include:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/FoodLink.git
+    git clone https://github.com/Raza-Hammad/FoodLink.git
     ```
 2.  **Open in Android Studio**:
     - Launch Android Studio.
